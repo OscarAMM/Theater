@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/ShowHandler/controller/ContactRegisterController.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/ShowHandler/view/ContactRegisterView.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/TicketOffice/model/TicketOffice.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/ShowHandler/controller/ShowRegisterController.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/ShowHandler/model/Contact.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SalesHandler/model/Ticket.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SalesHandler/model/Sale.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SeatsHandler/model/Seat.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/ShowHandler/model/Show.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SeatsHandler/model/Zone.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SeatsHandler/controller/SeatsHandler.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SeatsHandler/model/Row.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/SalesHandler/model/Reservation.java</file>
+            <file>file:/Users/andres/NetBeansProjects/TheaterBoxOffice/src/ShowHandler/model/Function.java</file>
+        </group>
+    </open-files>
+</project-private>
